@@ -1,2 +1,2 @@
 # Coursera_Capston
-This is the final project to finish the course.
+This is the final project to finish Applied Data Science Capstone
